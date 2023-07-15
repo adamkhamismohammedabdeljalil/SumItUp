@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\bin\Debug\net6.0\SumItUp.exe
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\bin\Debug\net6.0\SumItUp.deps.json
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\bin\Debug\net6.0\SumItUp.runtimeconfig.json
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\bin\Debug\net6.0\SumItUp.dll
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\bin\Debug\net6.0\SumItUp.pdb
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\obj\Debug\net6.0\SumItUp.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\obj\Debug\net6.0\SumItUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\obj\Debug\net6.0\SumItUp.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\obj\Debug\net6.0\SumItUp.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\obj\Debug\net6.0\SumItUp.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\obj\Debug\net6.0\SumItUp.dll
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\obj\Debug\net6.0\refint\SumItUp.dll
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\obj\Debug\net6.0\SumItUp.pdb
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\obj\Debug\net6.0\SumItUp.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\SumItUp\SumItUp\obj\Debug\net6.0\ref\SumItUp.dll
